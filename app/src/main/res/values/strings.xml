@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TextCipher</string>
+    <string name="process_text_action">Encrypt / Decrypt with TextCipher</string>
+    <string name="accessibility_service_description">Overlays decrypted text for accessible messages &amp; adds a quick encrypt button for editable text fields.</string>
+</resources>
